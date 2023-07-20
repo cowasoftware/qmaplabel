@@ -1,0 +1,21 @@
+[general]
+name=QMapLabel
+qgisMinimumVersion=3.0
+description=create hdmap for COWAROBOT
+version=1.11
+author=cowarobot
+email=opencode@cowarobot.com
+
+about=create hdmap
+tracker=www.cowarobot.com
+repository=https://www.cowarobot.com
+
+tags=
+
+homepage=https://www.cowarobot.com
+category=Plugins
+icon=icon.png
+experimental=False
+
+deprecated=False
+

@@ -1,0 +1,44 @@
+<RCC>
+  <qresource prefix="/COWA">
+    <file>traffic_light.png</file>
+    <file>lane_image.png</file>
+    <file>large.png</file>
+    <file>select.png</file>
+    <file>small.png</file>
+    <file>mActionUndo.svg</file>
+    <file>mActionMakePolygons.svg</file>
+    <file>mIconSuccess.svg</file>
+    <file>mActionAtlasNext.svg</file>
+    <file>mActionAtlasPrev.svg</file>
+    <file>icon.png</file>
+    <file>link_road.png</file>
+    <file>lane_change.png</file>
+    <file>speed.jpg</file>
+    <file>crossroad.jpg</file>
+    <file>waiting.jpg</file>
+    <file>changedir.jpg</file>
+    <file>topo_road.jpg</file>
+    <file>left.jpg</file>
+    <file>right.jpg</file>
+    <file>forward.jpg</file>
+    <file>uturn.jpg</file>
+    <file>no_dir.jpg</file>
+    <file>bike.jpg</file>
+    <file>sidewalk.jpg</file>
+    <file>car.jpg</file>
+    <file>split.jpg</file>
+    <file>parrel.jpg</file>
+    <file>bidirection.jpg</file>
+    <file>crosswalk.jpg</file>
+    <file>road.jpg</file>
+    <file>update_up_down_ids.png</file>
+    <file>create_junction_lines.png</file>
+    <file>clip_lines.png</file>
+    <file>change_points_type.png</file>
+    <file>convert_datas.png</file>
+    <file>boundaray_points_type.qml</file>
+    <file>locate.png</file>
+    <file>lastFeature.png</file>
+    <file>nextFeature.png</file>
+  </qresource>
+</RCC>
